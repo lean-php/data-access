@@ -1,0 +1,13 @@
+{
+    "name": "lean-php/data-access",
+    "description": "Data Access with PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Micha Alt",
+            "email": "php@lean-stack.de"
+        }
+    ],
+    "require": {}
+}
