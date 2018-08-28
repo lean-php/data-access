@@ -15,6 +15,8 @@
         }
     },
     "require": {
+        "php": "^7.2",
+        "ext-pdo": "*",
         "symfony/flex": "^1.1",
         "symfony/framework-bundle": "^4.1",
         "symfony/dotenv": "^4.1",
@@ -22,7 +24,8 @@
         "doctrine/annotations": "^1.6",
         "symfony/console": "^4.1",
         "symfony/templating": "^4.1",
-        "league/plates": "^3.3"
+        "league/plates": "^3.3",
+        "symfony/webpack-encore-pack": "^1.0"
     },
     "scripts": {
         "auto-scripts": {
