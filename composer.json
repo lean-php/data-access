@@ -19,7 +19,8 @@
         "symfony/framework-bundle": "^4.1",
         "symfony/dotenv": "^4.1",
         "symfony/yaml": "^4.1",
-        "doctrine/annotations": "^1.6"
+        "doctrine/annotations": "^1.6",
+        "symfony/console": "^4.1"
     },
     "scripts": {
         "auto-scripts": {
