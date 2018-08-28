@@ -22,6 +22,8 @@ if ($debug) {
     umask(0000);
 
     Debug::enable();
+    \Tracy\Debugger::enable();
+    
 }
 
 if ($trustedProxies = $_SERVER['TRUSTED_PROXIES'] ?? false) {
